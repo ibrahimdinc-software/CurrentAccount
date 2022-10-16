@@ -1,0 +1,65 @@
+﻿
+<form action="/Home/CariHesapEkle" id="cariHesapForm">
+    <div class="form-group">
+        <label for="ad">Hesap Adı</label>
+        <input type="text" id="ad" name="ad" class="form-control" />
+    </div>
+</form>
+<button class="btn btn-primary" onclick="sendData()">Kaydet</button>
+<div class="mt-5" id="kayitliHesaplar">
+    <h4>Kayıtlı Hesaplar</h4>
+    <ul>
+    </ul>
+</div>
+
+@section Scripts{
+
+    <script>
+
+        $(document).ready(function () {
+            loadPage()
+        })
+
+        function sendData() {
+            var data = {
+                ad: $('#ad').val()
+            }
+            $.ajax({
+                url: '/Home/CariHesapEkle',
+                type: 'POST',
+                data: JSON.stringify(data),
+                contentType: "application/json; charset=utf-8",
+                success: function (response) {
+                    alert(response.message)
+                    if (response.status == 'error') {
+                        return
+                    }
+                    loadPage()
+                }
+            })
+        }
+
+        function loadPage() {
+            var elKayitliHesaplar = $('#kayitliHesaplar ul')
+
+            elKayitliHesaplar.children().remove()
+
+            var kayitliHesaplar = getKayitliHesaplar()
+
+            if (kayitliHesaplar === String) {
+                elKayitliHesaplar.append(
+                    `<li>${kayitliHesaplar}</li>`
+                )
+            }
+            else {
+                kayitliHesaplar.map((cariHesap) => (
+                    elKayitliHesaplar.append(
+                        `<li id=${cariHesap.id}>${cariHesap.ad}</li>`
+                    )
+                ))
+            }
+        }
+
+    </script>
+
+}

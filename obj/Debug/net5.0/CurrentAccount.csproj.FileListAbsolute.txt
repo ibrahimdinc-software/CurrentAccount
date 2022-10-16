@@ -1,0 +1,107 @@
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/appsettings.json
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.exe
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.deps.json
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.runtimeconfig.json
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.runtimeconfig.dev.json
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/ref/CurrentAccount.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.pdb
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.Views.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.Views.pdb
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Dapper.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/System.Data.SqlClient.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.csproj.AssemblyReference.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.AssemblyInfoInputs.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.AssemblyInfo.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.csproj.CoreCompileInputs.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorAssemblyInfo.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorAssemblyInfo.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/staticwebassets/CurrentAccount.StaticWebAssets.Manifest.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/staticwebassets/CurrentAccount.StaticWebAssets.xml
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/scopedcss/bundle/CurrentAccount.styles.css
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.TagHelpers.input.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.TagHelpers.output.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorCoreGenerate.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/HesapEkle.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorTargetAssemblyInfo.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorTargetAssemblyInfo.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.Views.pdb
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.csproj.CopyComplete
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/ref/CurrentAccount.dll
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.pdb
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.genruntimeconfig.cache
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/HesapFisEkle.cshtml.g.cs
+C:/Users/ibrah/OneDrive/Masaüstü/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/HesapDokumu.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/appsettings.Development.json
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/appsettings.json
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.StaticWebAssets.xml
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.deps.json
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.runtimeconfig.json
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.runtimeconfig.dev.json
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.pdb
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.Views.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/CurrentAccount.Views.pdb
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Dapper.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/System.Data.SqlClient.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.csproj.AssemblyReference.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.GeneratedMSBuildEditorConfig.editorconfig
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.AssemblyInfoInputs.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.AssemblyInfo.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.csproj.CoreCompileInputs.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.MvcApplicationPartsAssemblyInfo.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorAssemblyInfo.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorAssemblyInfo.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/scopedcss/bundle/CurrentAccount.styles.css
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/staticwebassets/CurrentAccount.StaticWebAssets.Manifest.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.TagHelpers.input.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.TagHelpers.output.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorCoreGenerate.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/HesapDokumu.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/HesapEkle.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/HesapFisEkle.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorTargetAssemblyInfo.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.RazorTargetAssemblyInfo.cs
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.Views.pdb
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.csproj.CopyComplete
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/refint/CurrentAccount.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.pdb
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/CurrentAccount.genruntimeconfig.cache
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/obj/Debug/net5.0/ref/CurrentAccount.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Npgsql.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/media/ibrahim/Yeni Birim/CODE REPO/Asp.Net/CurrentAccount/CurrentAccount/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll

@@ -1,0 +1,89 @@
+﻿
+<label for="cariHesapId">Cari Hesap</label>
+<select class="form-select form-control" id="cariHesapId">
+</select>
+<table class="table" id="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Kayıt Tarihi</th>
+            <th scope="col">Alacak</th>
+            <th scope="col">Borç</th>
+            <th scope="col">Bakiye</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+        </tr>
+    </tbody>
+</table>
+
+@section Scripts {
+
+    <script>
+
+        $(document).ready(function () {
+            loadPage()
+        })
+
+        $('#cariHesapId').on('change', loadTable)
+
+        function loadTable() {
+            var tableBody = $('#table tbody')
+            console.log("changed")
+            tableBody.children().remove()
+            $.ajax({
+                url: "/Home/HesapDokumu?cariHesapId=" + $('#cariHesapId').val(),
+                method: 'POST',
+                success: function (response) {
+                    if (response.data) {
+                        console.log(response)
+                        response.data.hesapDokumu.map((hesapDokumu) => (
+                            tableBody.append(
+                                `<tr>
+                                    <th scope="row">${hesapDokumu.id}</th>
+                                    <td>${hesapDokumu.tarih}</td>
+                                    <td>${hesapDokumu.alacak}</td>
+                                    <td>${hesapDokumu.borc}</td>
+                                    <td>${hesapDokumu.bakiye}</td>
+                                 </tr>`
+                            )
+                        ))
+                        tableBody.append(
+                            `<tr>
+                                <th scope="row" colspan="4">Toplam</th>
+                                <td>${response.data.toplam}</td>
+                            </tr>`
+                        )
+                        return
+                    }
+                    alert(response.message)
+                }
+            })
+        }
+        function loadPage() {
+            var elKayitliHesaplar = $('#cariHesapId')
+
+            elKayitliHesaplar.children().remove()
+
+            var kayitliHesaplar = getKayitliHesaplar()
+            
+            kayitliHesaplar.map((cariHesap) => (
+                elKayitliHesaplar.append(
+                    `<option value="${cariHesap.id}">${cariHesap.ad}</option>`
+                )
+            ))
+            loadTable()
+        }
+
+    </script>
+
+}

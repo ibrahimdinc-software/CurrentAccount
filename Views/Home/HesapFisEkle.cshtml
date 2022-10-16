@@ -1,0 +1,76 @@
+﻿
+<form id="hesapFisEkle" action="/Home/HesapFisEkle">
+    <div class="form-group">
+        <label for="cariHesapId">Cari Hesap</label>
+        <select class="form-select form-control" id="cariHesapId">
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="alacakBorc">Kayıt Tipi</label>
+        <select class="form-select form-control" id="alacakBorc">
+            <option selected value="alacak">Alacak</option>
+            <option value="borc">Borç</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="tutar">Tutar</label>
+        <input type="number" min="0" id="tutar" class="form-control"/>
+    </div>
+</form>
+<button class="btn btn-primary" id="save" onclick="sendData()">Kaydet</button>
+
+
+@section Scripts{ 
+
+    <script>
+
+
+        $(document).ready(function () {
+            loadPage()
+        })
+
+        function sendData() {
+            var data = {
+                cariHesapId: parseInt($('#cariHesapId').val()),
+                alacakBorc: $('#alacakBorc').val(),
+                tutar: parseFloat($('#tutar').val())
+            }
+            console.log(data)
+            $.ajax({
+                url: '/Home/HesapFisEkle',
+                type: 'POST',
+                data: JSON.stringify(data),
+                contentType: "application/json; charset=utf-8",
+                success: function (response) {
+                    alert(response.message)
+                    if (response.status == 'error') {
+                        return
+                    }
+                    loadPage()
+                }
+            })
+        }
+
+        function loadPage() {
+
+            var elKayitliHesaplar = $('#cariHesapId')
+
+            elKayitliHesaplar.children().remove()
+
+            var kayitliHesaplar = getKayitliHesaplar()
+            if (kayitliHesaplar === String) {
+                $('#save').prop('disabled', true)
+            }
+            else {
+                kayitliHesaplar.map((cariHesap) => (
+                    elKayitliHesaplar.append(
+                        `<option value="${cariHesap.id}">${cariHesap.ad}</option>`
+                    )
+                ))
+            }
+        }
+
+    </script>
+
+}
+
